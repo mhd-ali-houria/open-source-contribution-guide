@@ -1,5 +1,6 @@
 # How to Contribute to Open Source:
 
+
 Contributing to open source is a great way to learn, help others, and collaborate with people around the world. You don’t need to be an expert—or even a programmer—to get started.
 
 ## Find a project
